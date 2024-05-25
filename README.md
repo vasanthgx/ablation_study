@@ -107,6 +107,11 @@ By following this structured approach, the project effectively explores the impa
  
  ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/ablation-2.png)
  
+ **Tensor Board Integration for visualizing and logging different experiments**
+ 
+  ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/TB-2.png)
+ 
+ 
  ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/ablation-3.png)
 
 1. **Model Complexity and Performance:**
