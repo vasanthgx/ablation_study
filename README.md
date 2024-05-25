@@ -98,11 +98,11 @@ By following this structured approach, the project effectively explores the impa
 
 ### Analysis and Conclusion:
 
- ![alt text](https://github.com/vasanthgx/ablation-study/blob/main/images/ablation-1.png)
+ ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/ablation-1.png)
  
- ![alt text](https://github.com/vasanthgx/ablation-study/blob/main/images/ablation-2.png)
+ ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/ablation-2.png)
  
- ![alt text](https://github.com/vasanthgx/ablation-study/blob/main/images/ablation-3.png)
+ ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/ablation-3.png)
 
 1. **Model Complexity and Performance:**
 
