@@ -92,9 +92,9 @@ Each image is associated with a single label, and the goal is to classify the im
 
 By following this structured approach, the project effectively explores the impact of different neural network configurations on the FMNIST dataset, providing insights into the optimal design choices for image classification tasks.
 
-### Dog and Cat Breeds in the dataset
+### FMNIST Dataset
 
- ![alt text](https://github.com/vasanthgx/petdataset_classification/blob/main/images/dataset_stats.png)
+ ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/logo/blob/main/images/fmnist.png)
 
 ### Annotation Examples from the dataset
 
