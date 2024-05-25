@@ -100,6 +100,11 @@ By following this structured approach, the project effectively explores the impa
 
  ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/ablation-1.png)
  
+ 
+ **Predictions of the labels from the 2nd Model**
+ 
+ ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/predictions-1.png)
+ 
  ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/ablation-2.png)
  
  ![alt text](https://github.com/vasanthgx/ablation_study/blob/main/images/ablation-3.png)
@@ -129,9 +134,17 @@ By following this structured approach, the project effectively explores the impa
 The study demonstrates that increasing the number of hidden layers and units generally improves the performance of neural networks on the FMNIST dataset up to a point. However, beyond a certain complexity, the gains in accuracy diminish. Dropout layers help in preventing overfitting and maintaining model performance. The optimal model found in this study (Model 5) suggests that a moderately complex architecture with sufficient units per layer provides the best performance. This finding highlights the importance of balancing model complexity and computational resources to achieve the best results.
 
 
-	
+## FAQ
 
+### 1) Tensor Board Integration
 
+TensorBoard is employed as a crucial feature in this project to facilitate the comprehensive visualization and analysis of model performance. By integrating TensorBoard, we can effectively monitor the training process in real-time. Key logs captured include:
+
+- **Scalars:** Track metrics such as loss and accuracy over epochs, providing insight into the model's learning progress.
+- **Images:** Visualize input images, allowing for inspection of the data being fed into the network.
+- **Histograms:** Analyze the distribution of weights and biases, offering a deeper understanding of how model parameters evolve during training.
+- **Distributions:** Examine the detailed statistical distribution of tensors, aiding in the identification of potential issues like vanishing or exploding gradients.
+TensorBoard's interactive dashboards enhance the interpretability of complex training dynamics, making it an invaluable tool for optimizing neural network performance.
 
 
 
