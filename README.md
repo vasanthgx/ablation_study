@@ -71,7 +71,7 @@ Preprocess the data by normalizing the pixel values to a range of 0 to 1.
 
 ### Dataset Details
 
-[This dataset was obtained from this repository](https://www.robots.ox.ac.uk/~vgg/data/pets/)
+[The original source of the dataset](http://yann.lecun.com/exdb/mnist/)
 
 The Fashion MNIST dataset is a collection of 70,000 grayscale images of 28x28 pixels, distributed into 10 categories representing different types of clothing and accessories. It is intended to serve as a more challenging alternative to the traditional MNIST dataset of handwritten digits.
 
